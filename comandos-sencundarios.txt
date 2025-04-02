@@ -1,6 +1,6 @@
 ## Comandos secundários git
 
-essse arquivo contém comandos secundários de git
+esse arquivo contém comandos secundários de git
 
 
 
